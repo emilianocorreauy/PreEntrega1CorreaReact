@@ -26,7 +26,7 @@ const products = [
         category: 'Yerba',
         img: 'https://devotouy.vtexassets.com/arquivos/ids/1060633/Yerba-SARA-Suave-1-kg-1.jpg?v=638349781777130000',
         stock: 200,
-        description: 'Descripción mate Stanley',
+        description: 'Descripción Yerba Sara',
     }
 ]
 
